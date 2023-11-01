@@ -1,5 +1,5 @@
 
-# 💫 About Me"👋 Hi there! I'm Mohamed, a passionate code enthusiast exploring the infinite horizons of software development. I revel in crafting elegant solutions to intricate problems, constantly seeking new ways to innovate and learn. Join me on this digital journey as we weave lines of code into meaningful creations. <br>Let's build a better, brighter tech world together!"
+# 💫 About Me<br><br>👋 Hi there! I'm Mohamed, a passionate code enthusiast exploring the infinite horizons of software development. I revel in crafting elegant solutions to intricate problems, constantly seeking new ways to innovate and learn. Join me on this digital journey as we weave lines of code into meaningful creations. <br>Let's build a better, brighter tech world together!"
 
 
 ## 🌐 Socials:
