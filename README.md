@@ -17,8 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Snachit&icon=8&color=8)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Snachit&label=&color=9&icon=6&pretty=true" />
-</a>
 
 
