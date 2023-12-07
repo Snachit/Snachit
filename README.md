@@ -1,21 +1,13 @@
+<img src='./img/simobanner.png' alt='img'  />
+# About Me
 
- About Me
-<p>
-  <samp>
-    Hi there! I'm Mohamed, a passionate code enthusiast exploring the infinite horizons of software development. I revel in crafting elegant solutions to intricate problems, constantly seeking new ways to innovate and learn. Join me on this digital journey as we weave lines of code into meaningful creations. <br>Let's build a better, brighter tech world together!"
-  </samp>
-</p>
- 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/simo utch ) 
+👋 Hello! I'm Mohamed Nachit, a 19-year-old aspiring developer based in Morocco. Currently in my first year of Digital Development studies, I am passionate about mobile application and website development. My journey into the world of coding has led me to explore languages such as HTML, CSS, Python, and Java, and I've honed my problem-solving skills along the way.
 
-💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Snachit&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Snachit&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snachit&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 My goal is to become a proficient backend engineer, contributing to innovative solutions in the digital realm. I find joy in crafting code and building applications that make a positive impact. As I delve into the world of technology, I'm also fascinated by cybersecurity and its role in ensuring robust and secure digital systems.
 
----
-[![](https://visitcount.itsvg.in/api?id=Snachit&icon=8&color=8)](https://visitcount.itsvg.in)
+📚 Currently studying at ISGI Marrakech, I am dedicated to acquiring in-depth knowledge and practical skills that will shape my career in the dynamic field of software development. Join me on this exciting journey as I explore, learn, and create in the ever-evolving landscape of technology!
+
+**Connect with me:**
 
 
+Let's code the future together! 💻✨
