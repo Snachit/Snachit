@@ -2,7 +2,7 @@
 
  I'm Mohamed Nachit. I'm a 20-year-old developer from Morocco with a passion for web and mobile development. I love creating innovative and efficient solutions.
 
-This is my readme.md – let's code togetger
+let's code togetger
 
 Stay linked:
 
