@@ -1,10 +1,6 @@
 <img src='./img/simobanner.png' alt='img'  />
 
-I'm Mohamed Nachit, a 20-year-old aspiring developer from Morocco. In my first year of Digital Development studies, I'm mastering HTML, CSS, Python, and Java.
-
-My aim is to be a skilled backend engineer. I enjoy coding and building impactful applications. Cybersecurity is another area that fascinates me for maintaining secure digital systems.
-
-Currently studying at ISGI Marrakech, I'm dedicated to acquiring knowledge and practical skills for a career in software development. Join me on this journey of exploration, learning, and creation in the ever-evolving tech landscape! 
+ I'm Mohamed Nachit. I'm a 20-year-old developer from Morocco with a passion for web and mobile development. I love creating innovative and efficient solutions.
 
 This is my readme.md – let's code togetger
 
