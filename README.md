@@ -15,9 +15,10 @@ Let's code together.
     <img src="./img/kali.png" >
     <img src="./img/ubuntu.png" >
 </div><br>
-Stay linked:<br>
+Stay linked:
 
 <p aling ="left">
+ <br>
       <a href="https://www.instagram.com/siimo_nachit/" target="_blank" rel="noreferrer"> 
           <picture> 
             <source media="(prefers-color-scheme: dark)" srcset="./img/icons8-instagram.svg" /> 
