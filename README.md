@@ -15,8 +15,8 @@ Let's code together.
     <img src="./img/kali.png" >
     <img src="./img/ubuntu.png" >
 </div><br>
-Stay linked:
-<br>
+Stay linked:<br>
+
 <p aling ="left">
       <a href="https://www.instagram.com/siimo_nachit/" target="_blank" rel="noreferrer"> 
           <picture> 
