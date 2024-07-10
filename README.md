@@ -14,7 +14,7 @@ Let's code together.
     <img src="./img/bash.png" >
     <img src="./img/kali.png" >
     <img src="./img/ubuntu.png" >
-</div>
+</div><br>
 Stay linked:
 
 <p aling ="left">
