@@ -9,8 +9,8 @@ Let's code together.
     <img src="./img/js.png" >
     <img src="./img/python.png" >
     <img src="./img/php.png" >
-    <img src="./img/d.png" >
-    <img src="./img/flutter.png" >
+<!--     <img src="./img/d.png" >
+    <img src="./img/flutter.png" > -->
     <img src="./img/bash.png" >
     <img src="./img/kali.png" >
     <img src="./img/ubuntu.png" >
