@@ -12,8 +12,9 @@ Let's code together.
 <!--     <img src="./img/d.png" >
     <img src="./img/flutter.png" > -->
     <img src="./img/bash.png" >
-    <img src="./img/kali.png" >
-    <img src="./img/ubuntu.png" >
+    <img src="./img/linux.png" >
+<!--     <img src="./img/kali.png" >
+    <img src="./img/ubuntu.png" > -->
 </div><br>
 Stay linked:
 
