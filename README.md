@@ -1,14 +1,12 @@
 <img src='./img/simobanner.png' alt='img'  />
 
- I'm Mohamed Nachit. I'm a 20-year-old developer from Morocco with a passion for web and mobile development. I love creating innovative and efficient solutions.
+ I'm Mohamed Nachit. I'm a 21-year-old developer from Morocco with a passion for web and mobile development. I love creating innovative and efficient solutions.
 
 Let's code together.
 <div>
-     <img src="./img/html-5.png" >
-    <img src="./img/css-3.png" >
+ 
     <img src="./img/js.png" >
     <img src="./img/python.png" >
-    <img src="./img/php.png" >
 <!--     <img src="./img/d.png" >
     <img src="./img/flutter.png" > -->
     <img src="./img/bash.png" >
