@@ -10,8 +10,8 @@ Let's code together.
      <img style="width: 35px; height: 35px;" src="./img/react.png" > 
      <img src="./img/tailwind-css-48.png" >
      <img src="./img/mysql.png" >
-     <img src="./img/sql.png" >
-     <img src="./img/.png" >
+     <img src="./img/sql-48.png" >
+     <img src="./img/mongo.png" >
      <img src="./img/js.png" >
      <img src="./img/python.png" >
      
