@@ -3,17 +3,16 @@
  I'm Mohamed Nachit. I'm a 21-year-old developer from Morocco with a passion for web and mobile development. I love creating innovative and efficient solutions.
 
 Let's code together.
+
 <div>
- 
-    <img src="./img/js.png" >
+     <img style="width: 35px; height: 35px;" src="./img/node.png" >
+    <img style="width: 35px; height: 35px;" src="./img/typescript.png" >
+    <img style="width: 35px; height: 35px;" src="./img/react.png" > 
+     <img src="./img/js.png" >
     <img src="./img/python.png" >
-<!--     <img src="./img/d.png" >
-    <img src="./img/flutter.png" > -->
-    <img src="./img/bash.png" >
-    <img src="./img/linux.png" >
-<!--     <img src="./img/kali.png" >
-    <img src="./img/ubuntu.png" > -->
-</div><br>
+   
+ </div>
+<br>
 Stay linked:
 
 <p aling ="left">
