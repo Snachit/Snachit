@@ -5,6 +5,8 @@
 Let's code together.
 
 <div>
+      <img src="./img/dart.png" >
+     <img src="./img/flutter.png" >
      <img style="width: 35px; height: 35px;" src="./img/node.png" >
      <img style="width: 35px; height: 35px;" src="./img/typescript.png" >
      <img style="width: 35px; height: 35px;" src="./img/react.png" > 
