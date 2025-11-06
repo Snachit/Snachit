@@ -11,7 +11,7 @@ Let's code together.
      <img src="./img/tailwind-css-48.png" >
      <img src="./img/mysql.png" >
      <img src="./img/sql-48.png" >
-     <img src="./img/mongo.png" >
+     <img src="./img/mongodb.png" >
      <img src="./img/js.png" >
      <img src="./img/python.png" >
      
