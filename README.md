@@ -8,6 +8,7 @@ Let's code together.
      <img style="width: 35px; height: 35px;" src="./img/node.png" >
     <img style="width: 35px; height: 35px;" src="./img/typescript.png" >
     <img style="width: 35px; height: 35px;" src="./img/react.png" > 
+    <img src="./img/tailwind-css-48.png" >
      <img src="./img/js.png" >
     <img src="./img/python.png" >
    
